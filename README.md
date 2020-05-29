@@ -1,9 +1,11 @@
-## 리드미 테스트
+## Linux 
 
 ***
 
-Hello World!
+Hello Linux!
 
 ***
 <img src = "/images/linuxLogo.PNG"> </img>
+
+***
 
