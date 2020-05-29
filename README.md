@@ -5,5 +5,5 @@
 Hello World!
 
 ***
-<img src = "/images/linuxLogo.png"> </img>
+<img src = "/images/linuxLogo.PNG"> </img>
 
