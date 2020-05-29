@@ -5,7 +5,10 @@
 Hello Linux!
 
 ***
-<img src = "/images/linuxLogo.PNG" style = "display : block ; margin : 0px "> </img>
+<style>
+			img { display: block; margin: 0px auto; }
+</style>
+<img src = "/images/linuxLogo.PNG"> </img>
 
 ***
 
