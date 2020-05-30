@@ -35,7 +35,7 @@ sudo apt-get install build-essential
 
 #### vscode extension install 
 - intellisense 자동완성 편의기능 등 <br>
-<img src = "https://github.com/wallahan/linux/blob/master/images/extention.png"></img><br>
+<img src = "https://github.com/wallahan/linux/blob/master/images/extension.png"></img><br>
 
 
 
