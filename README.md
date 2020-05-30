@@ -112,6 +112,13 @@ gcc main.c -g -o ./main.exe
    + && : 앞 커맨드 명령이 성공하면, 이 뒤에 오는 명령어를 실행한다
 <img src = "https://github.com/wallahan/linux/blob/master/images/buildandexec.png"></img><br>
 
+<br>
+
+#### 4-4) 내가 만든 my task 실행해보기 
+<img src = "https://github.com/wallahan/linux/blob/master/images/mytaskexec1.png"></img><br>
+<img src = "https://github.com/wallahan/linux/blob/master/images/mytaskexec2.png"></img><br>
+<img src = "https://github.com/wallahan/linux/blob/master/images/mytaskexec3.png"></img><br>
+
 #### 단축키 변경 :: 창닫기, 단어 블럭 선택 
 
 
