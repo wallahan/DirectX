@@ -108,6 +108,9 @@ gcc main.c -g -o ./main.exe
  <img src = "https://github.com/wallahan/linux/blob/master/images/mytask.png"></img><br>
   
 
+* 빌드후 바로 실행되게 만들어보자 ( 한줄에 여러 명령어 && )
+   + && : 앞 커맨드 명령이 성공하면, 이 뒤에 오는 명령어를 실행한다
+<img src = "https://github.com/wallahan/linux/blob/master/images/buildandexec.png"></img><br>
 
 #### 단축키 변경 :: 창닫기, 단어 블럭 선택 
 
