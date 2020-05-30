@@ -82,10 +82,32 @@ gcc main.c -g -o ./main.exe
 </code>
 </pre>
 
+<br>
 
 * 실행결과 <br>
 <img src = "https://github.com/wallahan/linux/blob/master/images/bat0.png"></img><br>
 <img src = "https://github.com/wallahan/linux/blob/master/images/bat1.png"></img><br>
+
+<br>
+
+#### 4-3) VScode Task를 이용해 build 하기 ( bat파일 없이 )
+
+* tasks.json 파일을 연다. <br>
+<img src = "https://github.com/wallahan/linux/blob/master/images/tasksfile.png"></img><br>
+
+<br>
+
+* tasks 객체안에 {} 객체로 커맨드 실행을 만들수 있다. <br>
+<img src = "https://github.com/wallahan/linux/blob/master/images/taskObject.png"></img><br>
+
+<br>
+
+* 나만의 task를 만들어보자 ( 최대한 간단하게 구성했다 )
+   + ${file} : 파일명.확자자명 ( 현재 vscode에 포커싱된 )
+   + ${fileBasenameNoExtension} : 파일명만 ( 현재 vscode에 포커싱된 )  <br>
+ <img src = "https://github.com/wallahan/linux/blob/master/images/mytask.png"></img><br>
+  
+
 
 #### 단축키 변경 :: 창닫기, 단어 블럭 선택 
 
