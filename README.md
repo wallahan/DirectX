@@ -74,7 +74,7 @@ echo
 
 <br>
 
-* 실행결과
+* 실행결과 <br>
 <img src = "https://github.com/wallahan/linux/blob/master/images/bat0.png"></img><br>
 <img src = "https://github.com/wallahan/linux/blob/master/images/bat1.png"></img><br>
 
