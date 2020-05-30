@@ -129,6 +129,9 @@ gcc main.c -g -o ./main.exe
    <img src = "https://github.com/wallahan/linux/blob/master/images/keyicon.png"></img><br>
    + 이 경로에 있는 키바인딩.json파일이 열리게 된다 <br>
    <img src = "https://github.com/wallahan/linux/blob/master/images/keypath.PNG"></img><br>
+   + keybindings.json에 바인딩할 명령어를 작성한다.<br> 
+   ( my c builder를 바로 링크하진못한다, 정확한건 아래설명 )
+   <img src = "https://github.com/wallahan/linux/blob/master/images/keybind.PNG"></img><br>
    
 * 어떻게 build 단축키를 실행했는데, 내가 만든 my c builder가 뜨는걸까?
    + task 변수중 group.kind값을 build로 지정하면 workbench.action.tasks.build 실행시 뜨게된다
