@@ -9,3 +9,5 @@ Hello Linux!
 
 ***
 
+### Linux VScode 설치
+https://code.visualstudio.com/docs/setup/linux
