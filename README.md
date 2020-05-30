@@ -105,7 +105,7 @@ gcc main.c -g -o ./main.exe
 * 나만의 task를 만들어보자 ( 최대한 간단하게 구성했다 )
    + ${file} : 파일명.확자자명 ( 현재 vscode에 포커싱된 )
    + ${fileBasenameNoExtension} : 파일명만 ( 현재 vscode에 포커싱된 )  <br>
- <img src = "https://github.com/wallahan/linux/blob/master/images/mytsk.png"></img><br>
+ <img src = "https://github.com/wallahan/linux/blob/master/images/mytask.png"></img><br>
   
 
 
