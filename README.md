@@ -53,6 +53,25 @@ sudo apt-get install build-essential
 
 <br>
 
+### 4-2) 빌드 :: 빌드용 bat 파일 만들기
+* bat파일로 파일명을 인자로 받아서, 빌드와 실행까지 되는 bat파일을 만들었다.
+<pre>
+<code>
+echo it is building....
+
+gcc -c $1.c
+gcc -o $1.exe $1.o
+echo
+echo it has finished the build.
+echo
+echo --------------------------
+echo --------- exec -----------
+echo --------------------------
+echo
+./$1.exe
+</code>
+</pre>
+
 #### 단축키 변경 :: 창닫기, 단어 블럭 선택 
 
 
