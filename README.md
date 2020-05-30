@@ -38,6 +38,7 @@ sudo apt-get install build-essential
 <img src = "https://github.com/wallahan/linux/blob/master/images/extension.png"></img><br>
 
 
+#### 단축키 변경 :: 창닫기, 단어 블럭 선택 
 
 ***
 END
