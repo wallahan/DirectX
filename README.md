@@ -39,12 +39,19 @@ sudo apt-get install build-essential
 </codE>
 </pre>
 
+<br>
+
 #### 3-2) 컴파일러2 :: VScode에 컴파일러 등록
 <img src = "https://github.com/wallahan/linux/blob/master/images/gcc1.png"></img><br>
 <img src = "https://github.com/wallahan/linux/blob/master/images/gcc2.png"></img><br>
+
+<br>
+
+#### 4) 빌드
 <img src = "https://github.com/wallahan/linux/blob/master/images/build.png"></img><br>
 <img src = "https://github.com/wallahan/linux/blob/master/images/exec.png"></img><br>
 
+<br>
 
 #### 단축키 변경 :: 창닫기, 단어 블럭 선택 
 
