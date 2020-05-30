@@ -72,6 +72,12 @@ echo
 </code>
 </pre>
 
+<br>
+
+* 실행결과
+<img src = "https://github.com/wallahan/linux/blob/master/images/bat0.png"></img><br>
+<img src = "https://github.com/wallahan/linux/blob/master/images/bat1.png"></img><br>
+
 #### 단축키 변경 :: 창닫기, 단어 블럭 선택 
 
 
