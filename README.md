@@ -72,6 +72,21 @@ echo
 </code>
 </pre>
 
+<br>
+
+* 한줄로 빌드하기
+<pre>
+<code>
+gcc 코드파일명.c -g -o ./경로/실행파일명.exe
+gcc main.c -g -o ./main.exe
+</code>
+</pre>
+
+
+* 실행결과 <br>
+<img src = "https://github.com/wallahan/linux/blob/master/images/bat0.png"></img><br>
+<img src = "https://github.com/wallahan/linux/blob/master/images/bat1.png"></img><br>
+
 #### 단축키 변경 :: 창닫기, 단어 블럭 선택 
 
 
