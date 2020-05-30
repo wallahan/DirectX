@@ -124,7 +124,12 @@ gcc main.c -g -o ./main.exe
 
 #### 5-2) 내가 만든 my task , 빌드 단축키를 새로 지정해 실행 해보기
 * 빌드와 실행 단축키 : 새로 등록 F9로 등록해보자 
-
+   + File > Preference > Keyboard Shortcut 
+   + 우측상단 아이콘 클릭 
+   <img src = "https://github.com/wallahan/linux/blob/master/images/keyicon.png"></img><br>
+   + 이 경로에 있는 키바인딩.json파일이 열리게 된다
+   <img src = "https://github.com/wallahan/linux/blob/master/images/keypath.PNG"></img><br>
+   
 * 어떻게 build 단축키를 실행했는데, 내가 만든 my c builder가 뜨는걸까?
    + task 변수중 group.kind값을 build로 지정하면 workbench.action.tasks.build 실행시 뜨게된다
 <img src = "https://github.com/wallahan/linux/blob/master/images/addbuild.png"></img><br>
