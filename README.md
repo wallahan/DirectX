@@ -93,7 +93,7 @@ gcc main.c -g -o ./main.exe
 #### 4-3) VScode Task를 이용해 build 하기 ( bat파일 없이 )
 
 * tasks.json 파일을 연다. <br>
-<img src = "https://github.com/wallahan/linux/blob/master/images/tasks.png"></img><br>
+<img src = "https://github.com/wallahan/linux/blob/master/images/tasksfile.png"></img><br>
 
 <br>
 
