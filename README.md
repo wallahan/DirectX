@@ -25,8 +25,7 @@ https://code.visualstudio.com/docs/setup/linux
 <code>
 sudo apt-get install build-essential
 </codE>
-<pre>
-
+</pre>
 
 ***
 END
