@@ -10,8 +10,8 @@ Hello Linux!
 ***
 
 ### 1. Linux VScode 설치
-https://code.visualstudio.com/docs/setup/linux
-
+https://code.visualstudio.com/docs/setup/linux <br>
+<img src = "https://github.com/wallahan/linux/blob/master/images/vscodelogo.png"></img><br>
 
 <br>
 
@@ -31,12 +31,13 @@ https://code.visualstudio.com/docs/setup/linux
 - intellisense 자동완성 편의기능 등 <br>
 <img src = "https://github.com/wallahan/linux/blob/master/images/extension.png"></img><br>
 
+<br>
 
 #### 3-1) 컴파일러1 :: gcc, g++ compiler intall
 <pre>
 <code>
 sudo apt-get install build-essential
-</codE>
+</code>
 </pre>
 
 <br>
