@@ -15,6 +15,8 @@ https://code.visualstudio.com/docs/setup/linux
 
 <img src = "https://github.com/wallahan/linux/blob/master/images/down.png"></img><br>
 
+<img src = "https://github.com/wallahan/linux/blob/master/images/install.png"></img><br>
+
 
 ***
 END
